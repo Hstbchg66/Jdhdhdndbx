@@ -23,7 +23,6 @@ from telebot import types
 from telebot import types
 from telethon import TelegramClient
 import asyncio
-from gate import Tele
 try:
     import telebot
 except:
